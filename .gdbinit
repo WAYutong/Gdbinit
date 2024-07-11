@@ -3825,5 +3825,5 @@ end
 document enablecolorprompt
 | Enable color prompt
 end
-
+set auto-load safe-path /
 #EOF
